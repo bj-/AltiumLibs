@@ -1,0 +1,4 @@
+﻿"Symbol";"Value";"Unit";
+"DESIGN";"Pin header, pitch 2.54mm, straight, single row, 6 contacts, plating : Gold flash, pin length = 11,2mm ( A=5,66; B=3,00)";"";
+"REFERENCE";"AW140-EG-G06D";"";
+"SUPPLIER";"ASSMANN WSW components";"";

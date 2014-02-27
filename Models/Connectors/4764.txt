@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"ALLIED_STOCK_NUMBER";"70190992";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/C31/C31.T01/C31.T01.T02/10-16032010-115994";"";
+"TraceParts.PartVersion";"1.1.5";"";
+"TraceParts.InstanceId";"10-16032010-115994DKSPEH3FXPFXTP7H7FQHTXCAY";"";
+"REFERENCE";"39-30-1060";"";
+"DESIGN";"6 way r/a PCB header w/peg,Mini-Fit Jr";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartNumber";"10-16032010-115994";"";
+"RS_STOCK_NUMBER";"5109859P";"";
+"TraceParts.PartStatus";"Published";"";
+"REVISION";"N";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"3/3/2010 16:09:05";"";

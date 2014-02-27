@@ -1,0 +1,4 @@
+﻿"Symbol";"Value";"Unit";
+"DESIGN";"Pin header, pitch 2.54mm, straight, double row, 18 contacts, plating : Gold flash, pin length : A=6mm, B=3mm";"";
+"REFERENCE";"AWL254-DG-G18D";"";
+"SUPPLIER";"ASSMANN WSW components";"";
