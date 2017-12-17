@@ -1,0 +1,17 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('User Library-LCD_NOK.STEP',
+    '2017-12-05T17:56:47',
+    ( 'Windows User' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2017',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+ENDSEC;
+END-ISO-10303-21;
